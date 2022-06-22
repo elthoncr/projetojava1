@@ -7,6 +7,8 @@ public class PrimeiraClasseJava {
 		
 		System.out.println("Meu primeiro programa em Java");
 		
+		System.out.println("Commit novo");
+		
 	}
 	
 }
